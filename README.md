@@ -4,7 +4,7 @@
 
 ---
 
-![Structure](/Public/diagram-FindIt.png)
+![Structure](/FindIt-Frontend/Public/diagram-FindIt.png)
 
 ---
 
